@@ -1,2 +1,2 @@
 # Comparison-of-non-convex-stochastic-quasi-newtonian-optimizers-on-retina-disease-classification
-A mini research on behavior of non-convex stochastic quasi newtonian methods on medical imaging project. A vast comparison of 
+A mini research on behavior of non-convex stochastic quasi newtonian methods on medical imaging project. A vast comparison of optimizers' capabilities of convergence, overall generalization. Impact of warmed up learning rate scheduling, sharpness aware minimization (SAM) in acquiring competent optima.
